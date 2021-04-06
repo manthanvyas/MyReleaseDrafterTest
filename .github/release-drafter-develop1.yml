@@ -1,8 +1,8 @@
-name-template: 'Draft'
-tag-template: 'Draft'
+name-template: 'Draft for 8.1'
+tag-template: 'Draft for 8.1'
 filter-by-commitish: true
 commitish: develop1
-version-template: 'Draft'
+version-template: 'Draft for 8.1'
 categories:
   - title: '🚀 Features'
     labels:
