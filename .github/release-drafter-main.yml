@@ -1,8 +1,8 @@
-name-template: 'Draft'
-tag-template: 'Draft'
+name-template: 'Draft for main'
+tag-template: 'Draft for main'
 filter-by-commitish: true
 commitish: main
-version-template: 'Draft'
+version-template: 'Draft for main'
 categories:
   - title: '🚀 Features'
     labels:
